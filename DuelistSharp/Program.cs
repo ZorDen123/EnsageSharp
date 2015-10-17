@@ -18,7 +18,7 @@ namespace DuelistSharp
         private static Hero me, target;
         private static Key toggleKey = Key.J;
         private static Key activeKey = Key.T;
-        private static Key bkbToggleKey = Key.];
+        private static Key bkbToggleKey = Key.L;
         private static Key killstealToggleKey = Key.K;
         private static bool toggle = true;
         private static bool active;
